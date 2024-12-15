@@ -50,7 +50,7 @@ public class QuadraticMain {
         Quadratic q = new Quadratic();
         q.getd();  
         q.compute();  
-	System.out.println("TANMAY");
-	System.out.println("1BM23ME115");
+	System.out.println("1BM23IC015_ATHARV");
+	
     }
 }
