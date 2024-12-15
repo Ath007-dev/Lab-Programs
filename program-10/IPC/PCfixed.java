@@ -72,7 +72,7 @@ class Consumer implements Runnable {
 
 public class PCFixed {
     public static void main(String args[]) {
-        System.out.println("TANMAY 1BM23ME115") ; 
+        System.out.println("1BM23IC015_ATHARV") ; 
         Q q = new Q();
         new Producer(q);
         new Consumer(q);
