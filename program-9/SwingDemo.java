@@ -25,7 +25,7 @@ class SwingDemo {
         JLabel alab = new JLabel();
         JLabel blab = new JLabel();
         JLabel anslab = new JLabel();
-        JLabel nameLabel = new JLabel("TANMAY - 1BM23ME115"); // Your name label
+        JLabel nameLabel = new JLabel("ATHARV_1BM23IC015"); // Your name label
         
         // Add components in order
         jfrm.add(jlab);
