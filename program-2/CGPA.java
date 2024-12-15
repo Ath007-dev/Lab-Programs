@@ -72,6 +72,6 @@ public class Main {
         System.out.println("Name: " + s1.name);
         System.out.println("USN: " + s1.usn);
         System.out.println("SGPA: " + s1.SGPA); 
-	System.out.println("1BM23ME115 - TANMAY");
+	System.out.println("1BM23IC015_ATHARV");
     }
 }
